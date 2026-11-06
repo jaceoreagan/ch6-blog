@@ -1,0 +1,8 @@
+# Database
+db.sqlite3
+*.sqlite3
+*.sqlite3-journal
+
+# Python bytecode
+__pycache__/
+*.py[cod]
